@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Test Case is Passed]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2025-02-26T13:55:19 IST" name="Suite" finished-at="2025-02-26T13:55:36 IST" duration-ms="17081">
+    <groups>
+    </groups>
+    <test started-at="2025-02-26T13:55:19 IST" name="Test" finished-at="2025-02-26T13:55:36 IST" duration-ms="17081">
+      <class name="PrintBrokenLinkPackage.PrintBLP.VisitHomepage">
+        <test-method is-config="true" signature="LaunchBrowser()[pri:0, instance:PrintBrokenLinkPackage.PrintBLP.VisitHomepage@4b0d79fc]" started-at="2025-02-26T13:55:19 IST" name="LaunchBrowser" finished-at="2025-02-26T13:55:23 IST" duration-ms="3900" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LaunchBrowser -->
+        <test-method signature="visitHomepage()[pri:0, instance:PrintBrokenLinkPackage.PrintBLP.VisitHomepage@4b0d79fc]" started-at="2025-02-26T13:55:23 IST" name="visitHomepage" finished-at="2025-02-26T13:55:35 IST" duration-ms="12129" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Test Case is Passed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- visitHomepage -->
+        <test-method is-config="true" signature="QuitBrowser()[pri:0, instance:PrintBrokenLinkPackage.PrintBLP.VisitHomepage@4b0d79fc]" started-at="2025-02-26T13:55:36 IST" name="QuitBrowser" finished-at="2025-02-26T13:55:36 IST" duration-ms="542" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- QuitBrowser -->
+      </class> <!-- PrintBrokenLinkPackage.PrintBLP.VisitHomepage -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
